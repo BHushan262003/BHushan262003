@@ -12,7 +12,7 @@
 
 I'm a **Computer Applications graduate** with hands-on experience in full-stack web development, backend Java programming, and real-world projects. My goal is to build meaningful software that solves everyday problems with clean, scalable code.
 
-- 👨‍🎓 BCA from North Maharashtra University (2021–2024)
+- 👨‍🎓 BCA from North Maharashtra University (2021–2025)
 - 🧠 Curious learner & quick adapter
 - 🤝 Open to internships, freelance work, and junior developer roles
 
